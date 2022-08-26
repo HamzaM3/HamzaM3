@@ -6,27 +6,17 @@ Take a look of all the projects I have done so far to verify my abilities.
 
 ### Web skills :
 
-[![Web Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,figma)](https://skillicons.dev)
+![Web Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,figma)
 
 ### Side skills :
 
-[![Side Skills](https://skillicons.dev/icons?i=git,linux&perline=3)](https://skillicons.dev)
+![Side Skills](https://skillicons.dev/icons?i=git,linux&perline=3)
 
 ### Other programming skills:
 
-[![Side Skills](https://skillicons.dev/icons?i=c,cpp,docker,java,haskell,matlab,py,pytorch)](https://skillicons.dev)
+![Other Skills](https://skillicons.dev/icons?i=c,cpp,docker,java,haskell,matlab,py,pytorch)
 
-<!--
-**HamzaM3/HamzaM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Contact me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Call me at : +33145921762
+Or email me at : hamza.maimoune3@gmail.com
