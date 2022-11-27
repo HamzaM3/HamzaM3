@@ -18,4 +18,4 @@ Take a look of all the projects I have done so far to verify my abilities.
 
 # Contact me:
 
-Or email me at : hamza.maimoune3@gmail.com
+Email me at : hamza.maimoune3@gmail.com
