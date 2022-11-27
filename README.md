@@ -18,6 +18,4 @@ Take a look of all the projects I have done so far to verify my abilities.
 
 # Contact me:
 
-Call me at : +33145921762
-
 Or email me at : hamza.maimoune3@gmail.com
