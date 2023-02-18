@@ -4,7 +4,7 @@ You have found the ultimate React developer on the web. Thanks to me, all of you
 
 Take a look of all the projects I have done so far to verify my abilities.
 
-### Web skills :
+### Primary skills :
 
 ![Web Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,figma,aws,jest,nginx,nodejs&perline=3)
 
@@ -14,7 +14,7 @@ Take a look of all the projects I have done so far to verify my abilities.
 
 ### Other programming skills:
 
-![Other Skills](https://skillicons.dev/icons?i=c,cpp,docker,java,haskell,matlab,py,pytorch)
+![Other Skills](https://skillicons.dev/icons?i=c,cpp,docker,java,haskell,matlab,py,pytorch&perline=3)
 
 # Contact me:
 
