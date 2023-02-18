@@ -6,7 +6,7 @@ Take a look of all the projects I have done so far to verify my abilities.
 
 ### Web skills :
 
-![Web Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,figma)
+![Web Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,figma,aws,jest,nginx,nodejs&perline=3)
 
 ### Side skills :
 
